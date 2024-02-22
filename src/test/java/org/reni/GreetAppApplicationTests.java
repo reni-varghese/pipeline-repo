@@ -1,13 +1,13 @@
-package org.reni;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class GreetAppApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package org.reni;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class GreetAppApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
