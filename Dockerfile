@@ -6,7 +6,7 @@ FROM openjdk:21
 
 
 
-COPY target\demo-webapp-0.0.1-SNAPSHOT.jar .
+COPY target/demo-webapp-0.0.1-SNAPSHOT.jar .
 
 # CMD ["java","-jar","app.jar"]
 ENTRYPOINT ["java","-jar","demo-webapp-0.0.1-SNAPSHOT.jar"]
